@@ -19,3 +19,6 @@ Bullseye is an iOS game where the user attempts to match the slider on screen as
 
 ## User is awarded significantly less points when they are no where near the target
 ![no where close](https://user-images.githubusercontent.com/37939649/72693070-3ba49480-3afd-11ea-96c2-696c4b0860a7.png)
+
+## User matches target perfectly and is given bounus
+![perfect](https://user-images.githubusercontent.com/37939649/72693283-2aa85300-3afe-11ea-94f2-b53077ecdfa3.png)
