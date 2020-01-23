@@ -6,7 +6,7 @@ Bullseye is an iOS game where the user attempts to match the slider on screen as
 - The points are added up as rounds progress and the game can be restarted at any moment by hitting the reset button. 
 - Clicking the 'i' button takes the user to the information and rules screen.
 
-## User Interface of the Game
+## User Interface of the BullsEye
 ![User interface of bullseye](https://user-images.githubusercontent.com/37939649/72692325-29285c00-3af9-11ea-9c47-ab6f02aa0fe4.png)
 
 
